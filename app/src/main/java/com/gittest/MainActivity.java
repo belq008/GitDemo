@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         this.findViewById(R.id.btn).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this, "我是amtf", Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this, "我是中国人", Toast.LENGTH_LONG).show();
             }
         });
 
